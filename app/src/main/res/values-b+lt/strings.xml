@@ -127,7 +127,7 @@
     <string name="action_remove_watching">Pašalinti</string>
     <string name="action_open_watching">Daugiau informacijos</string>
     <string name="type_on_hold">Sustabdyta</string>
-    <string name="app_name">CloudStream</string>
+    <string name="app_name">AURA</string>
     <string name="home_play">Paleisti</string>
     <string name="livestreams">Gyvos transliacijos</string>
     <string name="apk_installer_settings">APK įrašymas</string>
@@ -137,7 +137,7 @@
     <string name="app_language">Programos kalba</string>
     <string name="sort_close">Uždaryti</string>
     <string name="action_add_to_bookmarks">Nustatyti žiūrėjimo statusą</string>
-    <string name="play_with_app_name">Paleisti su CloudStream</string>
+    <string name="play_with_app_name">Paleisti su AURA</string>
     <string name="subs_subtitle_elevation">Subtitrų lygis</string>
     <string name="episodes">Serijos</string>
     <string name="cast_format" formatted="true">Skleisti: %s</string>
@@ -295,4 +295,5 @@
     <string name="swipe_to_seek_settings_des">Braukite į šonus, kad kontroliuotumėte padėtį vaizdo įraše</string>
     <string name="swipe_to_change_settings">Braukite, kad pakeistumėte nustatymus</string>
     <string name="swipe_to_change_settings_des">Braukite aukštyn arba žemyn ekrano kairėje arba dešinėje, jei norite pakeisti ryškumą arba garsą</string>
+    <string name="title_discover">Discover</string>
 </resources>
