@@ -96,6 +96,36 @@
     <color name="SilentBlueGrayTextColor">#7B83B0</color>
     <color name="SilentBlueIconColor">#7B83B0</color>
 
+    <!-- AURA theme palettes (kept in sync with shared Compose Palette.kt) -->
+    <color name="auraMonoBackground">#101010</color>
+    <color name="auraMonoSurfaceVariant">#242424</color>
+    <color name="auraMonoSurface">#1A1A1A</color>
+    <color name="auraMonoContainer">#202020</color>
+    <color name="auraMonoText">#F2F2F2</color>
+    <color name="auraMonoMuted">#AAAAAA</color>
+
+    <color name="auraSoftBackground">#F4F1EB</color>
+    <color name="auraSoftSurfaceVariant">#E8E3DA</color>
+    <color name="auraSoftSurface">#EEEAE2</color>
+    <color name="auraSoftContainer">#ECE7DE</color>
+    <color name="auraSoftText">#292722</color>
+    <color name="auraSoftMuted">#777168</color>
+
+    <color name="auraPremiumBackground">#111315</color>
+    <color name="auraPremiumSurfaceVariant">#292D31</color>
+    <color name="auraPremiumSurface">#1D2125</color>
+    <color name="auraPremiumContainer">#22272B</color>
+    <color name="auraPremiumText">#F0F1F2</color>
+    <color name="auraPremiumMuted">#A0A6AC</color>
+
+    <color name="auraAccentBackground">#F7F7F9</color>
+    <color name="auraAccentSurfaceVariant">#ECECF1</color>
+    <color name="auraAccentSurface">#F0F0F4</color>
+    <color name="auraAccentContainer">#E9E9EF</color>
+    <color name="auraAccentText">#202027</color>
+    <color name="auraAccentMuted">#747481</color>
+    <color name="auraAccentPrimary">#7564A8</color>
+
     <!--Other Colors -->
     <color name="colorPrimaryBlue">#5664B7</color>
     <color name="colorPrimaryRed">#D50000</color>
