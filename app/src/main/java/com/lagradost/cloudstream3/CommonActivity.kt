@@ -356,6 +356,10 @@ object CommonActivity {
                 "Dracula" -> R.style.DraculaMode
                 "Lavender" -> R.style.LavenderMode
                 "SilentBlue" -> R.style.SilentBlueMode
+                "AuraMonochrome" -> R.style.AuraMonochromeMode
+                "AuraSoftNeutral" -> R.style.AuraSoftNeutralMode
+                "AuraDarkPremium" -> R.style.AuraDarkPremiumMode
+                "AuraMinimalAccent" -> R.style.AuraMinimalAccentMode
 
                 else -> R.style.AppTheme
             }
