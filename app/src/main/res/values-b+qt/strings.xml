@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- For true intellectuals -->
-    <string name="app_name">aauugghhaauuh</string>
+    <string name="app_name">AURA</string>
     <string name="title_home">ooh</string>
     <string name="title_search">oouuh</string>
     <string name="title_downloads">ouuhhuhooh ooh</string>
@@ -625,4 +625,5 @@
     <string name="show">Boo</string>
     <string name="confirm_before_exiting_title">Oo-ahh oo-chit ar-ar</string>
     <string name="dont_show">Boooooo</string>
+    <string name="title_discover">Discover</string>
 </resources>
