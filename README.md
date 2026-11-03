@@ -1,4 +1,18 @@
-# CloudStream
+# AURA
+
+**Your Media Space.**
+
+AURA is an independent, community-maintained derivative of [CloudStream](https://github.com/recloudstream/cloudstream). It builds on CloudStream's open-source Android media-center foundation while developing its own product identity and user experience.
+
+> AURA does not bundle or endorse unauthorized media sources. Use local media, public-domain works, and sources you are authorized to access or distribute.
+
+## Upstream attribution
+
+AURA is based on CloudStream. The upstream project, its contributors, and its licensing notices remain acknowledged. This repository retains the upstream architecture and compatibility identifiers where needed for existing integrations. See the [GNU GPL v3 license](LICENSE) and the [upstream project](https://github.com/recloudstream/cloudstream).
+
+---
+
+## About AURA
 
 **⚠️ Warning: By default, this app doesn't provide any video sources; you have to install extensions to add functionality to the app.**
 <p align="left"><a href="https://github.com/recloudstream/cloudstream/releases/download/pre-release/app-prerelease-release.apk"><img src=".github/images/download-cloudstream-pre.png" alt="Download Cloudstream Pre-Release" width=430/></a></p>
@@ -22,9 +36,9 @@
 
 ## About us: 
 
-**CloudStream is a media center that prioritizes and emphasizes complete freedom and flexibility for users and developers.** 
+**AURA is a customizable media space built on the CloudStream open-source foundation.** 
 
-CloudStream is an extension-based multimedia player with tracking support. There are extensions to view videos from: 
+The inherited CloudStream engine is an extension-based multimedia player with tracking support. Extensions may connect to services such as: 
 
 + [Librevox (audio-books)](https://librivox.org/) 
 + [Youtube](https://www.youtube.com/)
@@ -34,7 +48,7 @@ CloudStream is an extension-based multimedia player with tracking support. There
 + And more... 
 
 
-**Please don't create illegal extensions or use any that host any copyrighted media.** For more details about our stance on the DMCA and EUCD, you can read about it on our organization: [reCloudStream](https://github.com/recloudstream)
+**Do not create or use extensions that distribute copyrighted media without authorization.** For the upstream project's copyright guidance, see [reCloudStream](https://github.com/recloudstream).
 
 #### Important Copyright Note: 
 
@@ -54,37 +68,37 @@ Our documentation is unmaintained and open to contributions; therefore, apps and
 
 ## Installation: 
 
-Our documentation provides the steps to install and configure CloudStream for your streaming needs.
+The upstream documentation describes the inherited CloudStream engine and extension model. AURA-specific installation and configuration guidance will be documented here as the project matures.
 
-[Getting Started With CloudStream:](https://recloudstream.github.io/csdocs/)
+[CloudStream upstream documentation](https://recloudstream.github.io/csdocs/)
 
 <a id="contributing"></a>
 
 ## Contributing:
-We **happily** accept any contributions to our project. To find out where you can start contributing towards the project, please look [at our issues tab](/cloudstream/issues)
+Contributions to AURA are welcome. Please use this repository's [issues](https://github.com/faizanovansa/AURA-STREAM/issues) and pull requests.
 
 
 
 <a id="issues"></a> 
  
 ### Issues: 
-While we **actively** accept issues and pull requests, we do require you fill out an [template](https://github.com/recloudstream/cloudstream/issues/new/choose) for issues. These include the following:
+While we **actively** accept issues and pull requests, we do require you fill out an [template](https://github.com/faizanovansa/AURA-STREAM/issues/new/choose) for issues. These include the following:
 
 <a id="bug_report"></a>
 
-- [Bug Report Template: ](https://github.com/recloudstream/cloudstream/issues/new?assignees=&labels=bug&projects=&template=application-bug.yml)
+- [Bug Report Template: ](https://github.com/faizanovansa/AURA-STREAM/issues/new)
   - For bug reports, we want as much info as possible, including your downloaded version of CloudeStream, device and updated version (if possible, current API),
     expected behavior of the program, and the actual behavior that the program did, most importantly we require clear, reproducible steps of the bug. If your bug can't be       reproduced, it is unlikely we'll work on your issue.
     
 <a id="enhancment"></a>
   
-- [Feature Request Template: ](https://github.com/recloudstream/cloudstream/issues/new?assignees=&labels=enhancement&projects=&template=feature-request.yml)
+- [Feature Request Template: ](https://github.com/faizanovansa/AURA-STREAM/issues/new)
   - Before adding a feature request, please check to see if a feature request already has been requested.  
 
 
 ### Extensions:
  
-**Further details on creating extensions for CloudStream are found in our documentation.**
+**Extension development follows the inherited CloudStream extension architecture.**
 
 [Guide: For Extension Developers](https://recloudstream.github.io/csdocs/devs/gettingstarted/) 
 
