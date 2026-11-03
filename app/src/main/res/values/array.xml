@@ -304,26 +304,18 @@
     </string-array>
 
     <string-array name="themes_names">
-        <item>Dark</item>
-        <item>Gray</item>
-        <item>Amoled</item>
-        <item>Flashbang</item>
-        <item>System</item>
-        <item>Material You</item>
-        <item>Dracula</item>
-        <item>Lavender Dreams</item>
-        <item>Silent Blue</item>
+        <item>Monochrome</item>
+        <item>Soft Neutral</item>
+        <item>Dark Premium</item>
+        <item>Minimal Accent</item>
+        <item>System Default</item>
     </string-array>
     <string-array name="themes_names_values">
-        <item>AmoledLight</item>
-        <item>Black</item>
-        <item>Amoled</item>
-        <item>Light</item>
+        <item>AuraMonochrome</item>
+        <item>AuraSoftNeutral</item>
+        <item>AuraDarkPremium</item>
+        <item>AuraMinimalAccent</item>
         <item>System</item>
-        <item>Monet</item>
-        <item>Dracula</item>
-        <item>Lavender</item>
-        <item>SilentBlue</item>
     </string-array>
 
     <string-array name="extension_statuses">
