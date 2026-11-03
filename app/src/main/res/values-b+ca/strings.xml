@@ -24,8 +24,8 @@
     <string name="new_update_format" formatted="true">S\'ha trobat una nova actualització!\n%1$s-&gt;%2$s</string>
     <string name="filler" formatted="true">Episodi especial</string>
     <string name="duration_format" formatted="true">%d min</string>
-    <string name="app_name">CloudStream</string>
-    <string name="play_with_app_name">Reprodueix amb CloudStream</string>
+    <string name="app_name">AURA</string>
+    <string name="play_with_app_name">Reprodueix amb AURA</string>
     <string name="title_home">Inici</string>
     <string name="title_search">Cercar</string>
     <string name="title_downloads">Descàrregues</string>
@@ -328,4 +328,5 @@
     <string name="logged_account" formatted="true">Connectat com %s</string>
     <string name="skip_startup_account_select_pref">Omet la selecció de comtpe a l\'inici</string>
     <string name="use_default_account">Utilitza el compte per defecte</string>
+    <string name="title_discover">Discover</string>
 </resources>
