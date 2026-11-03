@@ -22,7 +22,7 @@
     <string name="new_update_format" formatted="true">Actualizare nouă găsită! \n%1$s -&gt; %2$s</string>
     <string name="filler" formatted="true">Filler</string>
     <string name="duration_format" formatted="true">%d min</string>
-    <!-- <string name="app_name">CloudStream</string> -->
+    <!-- <string name="app_name">AURA</string> -->
     <string name="title_home">Prima pagină</string>
     <string name="title_search">Căutare</string>
     <string name="title_downloads">Descărcări</string>
@@ -373,7 +373,7 @@
     <string name="library">Librărie</string>
     <string name="test_log">Log</string>
     <string name="browser">Browser</string>
-    <string name="play_with_app_name">Joacă cu CloudStream</string>
+    <string name="play_with_app_name">Joacă cu AURA</string>
     <string name="automatic_plugin_updates">Actualizare plugin automată</string>
     <string name="automatic_plugin_download">Descarcă plugin-uri automat</string>
     <string name="others">Altele</string>
@@ -641,4 +641,5 @@
     <string name="install_prerelease">Instalează versiunea preliminară</string>
     <string name="prerelease_already_installed">Versiunea preliminară este deja instalată.</string>
     <string name="prerelease_install_failed">Instalarea versiunii preliminare a eșuat.</string>
+    <string name="title_discover">Discover</string>
 </resources>
