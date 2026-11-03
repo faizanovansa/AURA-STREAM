@@ -24,8 +24,8 @@
     <string name="new_update_format" formatted="true">U gjet update i ri!\n%1$s -&gt; %2$s</string>
     <string name="filler" formatted="true">Filler</string>
     <string name="duration_format" formatted="true">%d min</string>
-    <string name="app_name">CloudStream</string>
-    <string name="play_with_app_name">Luaj me CloudStream</string>
+    <string name="app_name">AURA</string>
+    <string name="play_with_app_name">Luaj me AURA</string>
     <string name="title_home">Kryefaqja</string>
     <string name="title_search">Kërko</string>
     <string name="title_downloads">Shkarkimet</string>
@@ -744,4 +744,5 @@
     </plurals>
     <string name="tv_layout_clock_settings">Shfaq orën në kohë reale</string>
     <string name="tv_layout_clock_settings_des">Shfaq një orë në krye të ekranit. Aplikohet në faqen kryesore dhe në luajtës</string>
+    <string name="title_discover">Discover</string>
 </resources>
