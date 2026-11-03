@@ -71,7 +71,7 @@
     <string name="rated_format" formatted="true">Na-rate: %.1f</string>
     <string name="new_update_format" formatted="true">May nakitang bagong update!\n%1$s -&gt; %2$s</string>
     <string name="duration_format" formatted="true">%d min</string>
-    <string name="play_with_app_name">Ipatugtog sa CloudStream</string>
+    <string name="play_with_app_name">Ipatugtog sa AURA</string>
     <string name="title_home">Bahay</string>
     <string name="title_search">Maghanap</string>
     <string name="title_downloads">Mga Download</string>
@@ -156,4 +156,5 @@
     <string name="benene_count_text_none">Walang Benenes na binigay</string>
     <string name="subs_auto_select_language">Awtomatikong Piliin ang Wika</string>
     <string name="subs_download_languages">Mag-download ng Mga Wika</string>
+    <string name="title_discover">Discover</string>
 </resources>
