@@ -4,11 +4,19 @@
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
-    <path android:fillColor="#F8F4FF" android:pathData="M20,78 L43,27 C45,22 49,19 54,19 C59,19 63,22 65,27 L88,78 L73,78 L54,36 L51,36 L34,78 Z"/>
-    <path android:fillColor="#A98BFF" android:pathData="M54,36 L65,62 L76,78 L88,78 L65,27 C63,22 59,19 54,19 Z"/>
-    <path android:fillColor="#21133F" android:pathData="M49,48 L49,63 Q49,67 53,65 L64,58 Q68,55 64,52 L53,45 Q49,43 49,48 Z"/>
-    <path android:fillColor="#00000000" android:pathData="M18,76 C34,62 63,57 86,38" android:strokeColor="#DCCBFF" android:strokeWidth="4" android:strokeLineCap="round"/>
-    <path android:fillColor="#00000000" android:pathData="M18,83 C35,75 71,77 91,65" android:strokeColor="#9A70FF" android:strokeWidth="5" android:strokeLineCap="round"/>
-    <path android:fillColor="#F5EEFF" android:pathData="M24,81 L27,80 L29,85 L26,86 Z M37,77 L40,76 L42,81 L39,82 Z M51,75 L54,75 L55,80 L52,80 Z M65,75 L68,74 L69,79 L66,80 Z M79,72 L82,70 L84,75 L81,77 Z"/>
-    <path android:fillColor="#EDE4FF" android:pathData="M83,20 L85,27 L92,29 L85,31 L83,38 L81,31 L74,29 L81,27 Z"/>
+    <path
+        android:fillColor="#E9D8FF"
+        android:pathData="M22,78 L43,30 C46,23 50,19 55,19 C60,19 64,23 67,30 L88,78 C89,81 87,83 84,83 L77,83 C74,83 72,81 71,78 L55,42 L38,78 C37,81 35,83 32,83 L25,83 C22,83 21,81 22,78 Z"/>
+    <path
+        android:fillColor="#8650F5"
+        android:pathData="M55,19 C60,19 64,23 67,30 L88,78 C89,81 87,83 84,83 L77,83 C74,83 72,81 71,78 L55,42 Z"/>
+    <path
+        android:fillColor="#211239"
+        android:pathData="M50,49 C50,46 52,45 55,47 L64,53 C67,55 67,57 64,59 L55,65 C52,67 50,66 50,63 Z"/>
+    <path
+        android:fillColor="#CDAEFF"
+        android:pathData="M22,78 C36,67 56,61 78,48 C83,45 86,43 89,39 C88,47 84,53 77,58 C60,70 40,77 29,84 C25,86 20,83 22,78 Z"/>
+    <path
+        android:fillColor="#DCC8FF"
+        android:pathData="M85,22 C86,28 89,31 95,32 C89,33 86,36 85,42 C84,36 81,33 75,32 C81,31 84,28 85,22 Z"/>
 </vector>
