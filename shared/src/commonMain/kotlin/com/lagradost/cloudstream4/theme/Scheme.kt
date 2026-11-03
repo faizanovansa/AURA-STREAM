@@ -160,3 +160,59 @@ internal fun silentBlueScheme() = CloudStreamColorScheme(
     ongoing = CloudStreamPalette.Ongoing,
     isLight = false,
 )
+
+/** AURA's neutral black-and-white theme. */
+internal fun auraMonochromeScheme() = CloudStreamColorScheme(
+    background = CloudStreamPalette.AuraMonoBackground,
+    surfaceVariant = CloudStreamPalette.AuraMonoSurfaceVariant,
+    surface = CloudStreamPalette.AuraMonoSurface,
+    surfaceContainer = CloudStreamPalette.AuraMonoContainer,
+    onBackground = CloudStreamPalette.AuraMonoText,
+    onSurfaceVariant = CloudStreamPalette.AuraMonoMuted,
+    icon = CloudStreamPalette.AuraMonoMuted,
+    primary = Color(0xFFE6E6E6),
+    ongoing = CloudStreamPalette.Ongoing,
+    isLight = false,
+)
+
+/** AURA's warm cream and stone theme. */
+internal fun auraSoftNeutralScheme() = CloudStreamColorScheme(
+    background = CloudStreamPalette.AuraSoftBackground,
+    surfaceVariant = CloudStreamPalette.AuraSoftSurfaceVariant,
+    surface = CloudStreamPalette.AuraSoftSurface,
+    surfaceContainer = CloudStreamPalette.AuraSoftContainer,
+    onBackground = CloudStreamPalette.AuraSoftText,
+    onSurfaceVariant = CloudStreamPalette.AuraSoftMuted,
+    icon = CloudStreamPalette.AuraSoftMuted,
+    primary = Color(0xFF665F53),
+    ongoing = CloudStreamPalette.Ongoing,
+    isLight = true,
+)
+
+/** AURA's graphite and silver cinematic theme. */
+internal fun auraDarkPremiumScheme() = CloudStreamColorScheme(
+    background = CloudStreamPalette.AuraPremiumBackground,
+    surfaceVariant = CloudStreamPalette.AuraPremiumSurfaceVariant,
+    surface = CloudStreamPalette.AuraPremiumSurface,
+    surfaceContainer = CloudStreamPalette.AuraPremiumContainer,
+    onBackground = CloudStreamPalette.AuraPremiumText,
+    onSurfaceVariant = CloudStreamPalette.AuraPremiumMuted,
+    icon = CloudStreamPalette.AuraPremiumMuted,
+    primary = Color(0xFFC4C9CE),
+    ongoing = CloudStreamPalette.Ongoing,
+    isLight = false,
+)
+
+/** AURA's light neutral theme with a restrained violet accent. */
+internal fun auraMinimalAccentScheme() = CloudStreamColorScheme(
+    background = CloudStreamPalette.AuraAccentBackground,
+    surfaceVariant = CloudStreamPalette.AuraAccentSurfaceVariant,
+    surface = CloudStreamPalette.AuraAccentSurface,
+    surfaceContainer = CloudStreamPalette.AuraAccentContainer,
+    onBackground = CloudStreamPalette.AuraAccentText,
+    onSurfaceVariant = CloudStreamPalette.AuraAccentMuted,
+    icon = CloudStreamPalette.AuraAccentMuted,
+    primary = CloudStreamPalette.AuraAccentPrimary,
+    ongoing = CloudStreamPalette.Ongoing,
+    isLight = true,
+)
