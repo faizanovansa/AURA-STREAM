@@ -24,8 +24,8 @@
     <string name="new_update_format" formatted="true">Знойдзена новае абнаўленне!\n%1$s -&gt; %2$s</string>
     <string name="filler" formatted="true">Запаўняльнік</string>
     <string name="duration_format" formatted="true">%d хвіл</string>
-    <string name="app_name">CloudStream</string>
-    <string name="play_with_app_name">Прайграць праз CloudStream</string>
+    <string name="app_name">AURA</string>
+    <string name="play_with_app_name">Прайграць праз AURA</string>
     <string name="title_home">Дамашняя</string>
     <string name="title_search">Пошук</string>
     <string name="title_downloads">Спампоўкі</string>
@@ -739,4 +739,5 @@
     <string name="video_singular">Відэа</string>
     <string name="skip_type_preview">Перадпрагляд</string>
     <string name="player_is_live">Ужывую</string>
+    <string name="title_discover">Discover</string>
 </resources>
