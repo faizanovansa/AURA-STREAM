@@ -8,6 +8,10 @@ import androidx.preference.PreferenceManager
 
 fun perfToMode(perf: String?) =
     when (perf) {
+        "AuraMonochrome" -> CloudStreamThemeMode.AuraMonochrome
+        "AuraSoftNeutral" -> CloudStreamThemeMode.AuraSoftNeutral
+        "AuraDarkPremium" -> CloudStreamThemeMode.AuraDarkPremium
+        "AuraMinimalAccent" -> CloudStreamThemeMode.AuraMinimalAccent
         "System" -> CloudStreamThemeMode.FollowSystem
         "Black" -> CloudStreamThemeMode.Dark
         "Light" -> CloudStreamThemeMode.Light
