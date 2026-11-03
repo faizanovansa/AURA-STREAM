@@ -22,8 +22,8 @@
     <string name="new_update_format" formatted="true">Nieuwe update gevonden! \n%1$s -&gt; %2$s</string>
     <string name="filler" formatted="true">Filler</string>
     <string name="duration_format" formatted="true">%d min</string>
-    <string name="app_name">CloudStream</string>
-    <string name="play_with_app_name">Afspelen met CloudStream</string>
+    <string name="app_name">AURA</string>
+    <string name="play_with_app_name">Afspelen met AURA</string>
     <string name="title_home">Home</string>
     <string name="title_search">Zoeken</string>
     <string name="title_downloads">Downloads</string>
@@ -695,4 +695,5 @@
     <string name="subtitles_from_online">Online</string>
     <string name="download_parallel_settings_des">Hoeveel verschillende items kunnen in parallel gedownload worden</string>
     <string name="parallel_downloads">Parallel downloads</string>
+    <string name="title_discover">Discover</string>
 </resources>
