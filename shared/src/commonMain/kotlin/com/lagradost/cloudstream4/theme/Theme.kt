@@ -62,6 +62,10 @@ fun modeToTheme(mode : CloudStreamThemeMode, primaryColor: CloudStreamPrimaryCol
             CloudStreamThemeMode.SilentBlue -> silentBlueScheme()
             CloudStreamThemeMode.FollowSystem -> if (systemDark) darkScheme() else lightScheme()
             CloudStreamThemeMode.Dynamic -> dynamicTheme
+            CloudStreamThemeMode.AuraMonochrome -> auraMonochromeScheme()
+            CloudStreamThemeMode.AuraSoftNeutral -> auraSoftNeutralScheme()
+            CloudStreamThemeMode.AuraDarkPremium -> auraDarkPremiumScheme()
+            CloudStreamThemeMode.AuraMinimalAccent -> auraMinimalAccentScheme()
         }
         when {
             mode == CloudStreamThemeMode.Dynamic -> base
