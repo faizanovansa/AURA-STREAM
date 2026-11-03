@@ -107,8 +107,8 @@
     <string name="cast_format" formatted="true">Reparto: %s</string>
     <string name="filler" formatted="true">Relleno</string>
     <string name="duration_format" formatted="true">%d min</string>
-    <string name="app_name">CloudStream</string>
-    <string name="play_with_app_name">Reproducir con Cloudstream</string>
+    <string name="app_name">AURA</string>
+    <string name="play_with_app_name">Reproducir con AURA</string>
     <string name="title_home">Inicio</string>
     <string name="title_search">Buscar</string>
     <string name="title_downloads">Descargas</string>
@@ -747,4 +747,5 @@
         <item quantity="many">%d enlaces ocultos</item>
         <item quantity="other">%d enlaces ocultos</item>
     </plurals>
+    <string name="title_discover">Descubrir</string>
 </resources>
