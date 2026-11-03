@@ -304,6 +304,42 @@
         <item name="android:colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="OverlayPrimaryColorAuraMonochrome">
+        <item name="colorPrimary">#E6E6E6</item>
+        <item name="android:colorPrimary">#E6E6E6</item>
+        <item name="colorPrimaryDark">#AAAAAA</item>
+        <item name="colorAccent">#E6E6E6</item>
+        <item name="colorOnPrimary">#101010</item>
+        <item name="android:colorAccent">#E6E6E6</item>
+    </style>
+
+    <style name="OverlayPrimaryColorAuraSoftNeutral">
+        <item name="colorPrimary">#665F53</item>
+        <item name="android:colorPrimary">#665F53</item>
+        <item name="colorPrimaryDark">#777168</item>
+        <item name="colorAccent">#665F53</item>
+        <item name="colorOnPrimary">#F4F1EB</item>
+        <item name="android:colorAccent">#665F53</item>
+    </style>
+
+    <style name="OverlayPrimaryColorAuraDarkPremium">
+        <item name="colorPrimary">#C4C9CE</item>
+        <item name="android:colorPrimary">#C4C9CE</item>
+        <item name="colorPrimaryDark">#A0A6AC</item>
+        <item name="colorAccent">#C4C9CE</item>
+        <item name="colorOnPrimary">#111315</item>
+        <item name="android:colorAccent">#C4C9CE</item>
+    </style>
+
+    <style name="OverlayPrimaryColorAuraMinimalAccent">
+        <item name="colorPrimary">@color/auraAccentPrimary</item>
+        <item name="android:colorPrimary">@color/auraAccentPrimary</item>
+        <item name="colorPrimaryDark">@color/auraAccentMuted</item>
+        <item name="colorAccent">@color/auraAccentPrimary</item>
+        <item name="colorOnPrimary">@color/auraAccentBackground</item>
+        <item name="android:colorAccent">@color/auraAccentPrimary</item>
+    </style>
+
     <style name="OverlayPrimaryColorMonet">
         <item name="colorPrimary">@color/material_dynamic_primary80</item>
         <item name="android:colorPrimary">@color/material_dynamic_primary80</item>
