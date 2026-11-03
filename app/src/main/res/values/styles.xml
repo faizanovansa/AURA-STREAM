@@ -236,6 +236,64 @@
         <item name="colorOnPrimary">@color/material_on_primary_emphasis_medium</item>
     </style>
 
+    <style name="AuraMonochromeMode">
+        <item name="primaryGrayBackground">@color/auraMonoSurfaceVariant</item>
+        <item name="primaryBlackBackground">@color/auraMonoBackground</item>
+        <item name="iconGrayBackground">@color/auraMonoSurface</item>
+        <item name="boxItemBackground">@color/auraMonoContainer</item>
+        <item name="textColor">@color/auraMonoText</item>
+        <item name="grayTextColor">@color/auraMonoMuted</item>
+        <item name="iconColor">@color/auraMonoMuted</item>
+        <item name="white">@color/auraMonoText</item>
+        <item name="black">@color/auraMonoBackground</item>
+        <item name="colorOnPrimary">@color/auraMonoBackground</item>
+    </style>
+
+    <style name="AuraSoftNeutralMode">
+        <item name="primaryGrayBackground">@color/auraSoftSurfaceVariant</item>
+        <item name="primaryBlackBackground">@color/auraSoftBackground</item>
+        <item name="iconGrayBackground">@color/auraSoftSurface</item>
+        <item name="boxItemBackground">@color/auraSoftContainer</item>
+        <item name="textColor">@color/auraSoftText</item>
+        <item name="grayTextColor">@color/auraSoftMuted</item>
+        <item name="iconColor">@color/auraSoftMuted</item>
+        <item name="white">@color/auraSoftText</item>
+        <item name="black">@color/auraSoftBackground</item>
+        <item name="colorOnPrimary">@color/auraSoftText</item>
+        <item name="isLightTheme">true</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">true</item>
+    </style>
+
+    <style name="AuraDarkPremiumMode">
+        <item name="primaryGrayBackground">@color/auraPremiumSurfaceVariant</item>
+        <item name="primaryBlackBackground">@color/auraPremiumBackground</item>
+        <item name="iconGrayBackground">@color/auraPremiumSurface</item>
+        <item name="boxItemBackground">@color/auraPremiumContainer</item>
+        <item name="textColor">@color/auraPremiumText</item>
+        <item name="grayTextColor">@color/auraPremiumMuted</item>
+        <item name="iconColor">@color/auraPremiumMuted</item>
+        <item name="white">@color/auraPremiumText</item>
+        <item name="black">@color/auraPremiumBackground</item>
+        <item name="colorOnPrimary">@color/auraPremiumBackground</item>
+    </style>
+
+    <style name="AuraMinimalAccentMode">
+        <item name="primaryGrayBackground">@color/auraAccentSurfaceVariant</item>
+        <item name="primaryBlackBackground">@color/auraAccentBackground</item>
+        <item name="iconGrayBackground">@color/auraAccentSurface</item>
+        <item name="boxItemBackground">@color/auraAccentContainer</item>
+        <item name="textColor">@color/auraAccentText</item>
+        <item name="grayTextColor">@color/auraAccentMuted</item>
+        <item name="iconColor">@color/auraAccentMuted</item>
+        <item name="white">@color/auraAccentText</item>
+        <item name="black">@color/auraAccentBackground</item>
+        <item name="colorOnPrimary">@color/auraAccentText</item>
+        <item name="colorPrimary">@color/auraAccentPrimary</item>
+        <item name="colorAccent">@color/auraAccentPrimary</item>
+        <item name="isLightTheme">true</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">true</item>
+    </style>
+
     <style name="OverlayPrimaryColorNormal">
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="android:colorPrimary">@color/colorPrimary</item>
