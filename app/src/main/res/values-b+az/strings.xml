@@ -52,8 +52,8 @@
     <string name="next_season_episode_format" formatted="true">Sezon %1$d Bölüm %2$d bu tarixdə yayımlanacaq</string>
     <string name="search_poster_img_des">Afişa</string>
     <string name="player_speed_text_format" formatted="true">Sürət (%.2fx)</string>
-    <string name="app_name">CloudStream</string>
-    <string name="play_with_app_name">CloudStream ilə oynat</string>
+    <string name="app_name">AURA</string>
+    <string name="play_with_app_name">AURA ilə oynat</string>
     <string name="type_completed">Tamamlandı</string>
     <string name="title_settings">Parametrlər</string>
     <string name="search_hint">Axtar…</string>
@@ -144,4 +144,5 @@
     <string name="unsupported_error">Dəstəklənməyən xəta</string>
     <string name="unexpected_error">Gözlənilməyən oynadıcı xətası</string>
     <string name="episode_action_cast_mirror">Ekran yansıtma</string>
+    <string name="title_discover">Discover</string>
 </resources>
