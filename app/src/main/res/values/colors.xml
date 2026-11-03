@@ -152,4 +152,5 @@
     <color name="colorTestFail">#ea596e</color>
     <color name="colorTestWarning">#FF9800</color>
     <color name="playIconBackground">#B3000000</color>
+    <color name="ic_launcher_background">#100A20</color>
 </resources>
