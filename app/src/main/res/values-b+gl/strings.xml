@@ -45,7 +45,7 @@
     <string name="subs_window_color">Cor de Ventá</string>
     <string name="continue_watching">Continuar Vendo</string>
     <string name="rated_format" formatted="true">Nota: %.1f</string>
-    <string name="app_name">CloudStream</string>
+    <string name="app_name">AURA</string>
     <string name="title_home">Inicio</string>
     <string name="title_downloads">Descarga</string>
     <string name="result_share">Compartir</string>
@@ -98,7 +98,7 @@
     <string name="show_log_cat">Amosar Logcat 🐈</string>
     <string name="test_log">Rexistro</string>
     <string name="picture_in_picture_des">Continúa a reprodución nun reproductor miniatura enriba doutras aplicacións</string>
-    <string name="play_with_app_name">Reproducir con CloudStream</string>
+    <string name="play_with_app_name">Reproducir con AURA</string>
     <string name="title_search">Procurar</string>
     <string name="preview_background_img_des">Vista previa do fondo</string>
     <string name="player_speed_text_format" formatted="true">Velocidade (%.2fx)</string>
@@ -287,4 +287,5 @@
     <string name="video_aspect_ratio_resize">Redimensionar</string>
     <string name="video_skip_op">Omitir introducción</string>
     <string name="dont_show_again">Non volver a amosar</string>
+    <string name="title_discover">Discover</string>
 </resources>
