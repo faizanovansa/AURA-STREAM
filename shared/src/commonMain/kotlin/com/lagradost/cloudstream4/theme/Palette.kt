@@ -73,6 +73,39 @@ internal object CloudStreamPalette {
     val LavenderGrayText = Color(0xFF9AB3FF)
     val LavenderIcon = Color(0xFF7C3AED)
 
+    // AURA Monochrome
+    val AuraMonoBackground = Color(0xFF101010)
+    val AuraMonoSurfaceVariant = Color(0xFF242424)
+    val AuraMonoSurface = Color(0xFF1A1A1A)
+    val AuraMonoContainer = Color(0xFF202020)
+    val AuraMonoText = Color(0xFFF2F2F2)
+    val AuraMonoMuted = Color(0xFFAAAAAA)
+
+    // AURA Soft Neutral
+    val AuraSoftBackground = Color(0xFFF4F1EB)
+    val AuraSoftSurfaceVariant = Color(0xFFE8E3DA)
+    val AuraSoftSurface = Color(0xFFEEEAE2)
+    val AuraSoftContainer = Color(0xFFECE7DE)
+    val AuraSoftText = Color(0xFF292722)
+    val AuraSoftMuted = Color(0xFF777168)
+
+    // AURA Dark Premium
+    val AuraPremiumBackground = Color(0xFF111315)
+    val AuraPremiumSurfaceVariant = Color(0xFF292D31)
+    val AuraPremiumSurface = Color(0xFF1D2125)
+    val AuraPremiumContainer = Color(0xFF22272B)
+    val AuraPremiumText = Color(0xFFF0F1F2)
+    val AuraPremiumMuted = Color(0xFFA0A6AC)
+
+    // AURA Minimal Accent
+    val AuraAccentBackground = Color(0xFFF7F7F9)
+    val AuraAccentSurfaceVariant = Color(0xFFECECF1)
+    val AuraAccentSurface = Color(0xFFF0F0F4)
+    val AuraAccentContainer = Color(0xFFE9E9EF)
+    val AuraAccentText = Color(0xFF202027)
+    val AuraAccentMuted = Color(0xFF747481)
+    val AuraAccentPrimary = Color(0xFF7564A8)
+
     // Silent Blue
     val SilentBluePrimaryGrayBg = Color(0xFF282F49)
     val SilentBlueBlackBg = Color(0xFF151A30)
