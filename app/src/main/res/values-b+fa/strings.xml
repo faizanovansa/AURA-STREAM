@@ -88,8 +88,8 @@
     <string name="preview_background_img_des">پیش‌نمایش پس‌زمینه</string>
     <string name="filler" formatted="true">فیلتر</string>
     <string name="duration_format" formatted="true">%d دقیقه</string>
-    <string name="app_name">CloudStream</string>
-    <string name="play_with_app_name">پخش با CloudStream</string>
+    <string name="app_name">AURA</string>
+    <string name="play_with_app_name">پخش با AURA</string>
     <string name="title_home">خانه</string>
     <string name="title_search">جست‌وجو</string>
     <string name="title_settings">تنظیمات</string>
@@ -347,4 +347,5 @@
     <string name="test_extensions">­همه افزونه ها را تست کنید</string>
     <string name="automatic">خودکار</string>
     <string name="primary_color_settings">رنگ اصلی</string>
+    <string name="title_discover">Discover</string>
 </resources>
