@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">CloudStream</string>
+    <string name="app_name">AURA</string>
     <string name="title_home">Αρχική</string>
     <string name="title_search">Αναζήτηση</string>
     <string name="title_downloads">Λήψεις</string>
     <string name="title_settings">Ρυθμίσεις</string>
-    <string name="play_with_app_name">Άνοιγμα με CloudStream</string>
+    <string name="play_with_app_name">Άνοιγμα με AURA</string>
     <string name="search_hint">Αναζήτηση…</string>
     <string name="search_poster_img_des">Αφίσα</string>
     <string name="no_data">Χωρίς δεδομένα</string>
@@ -663,4 +663,5 @@
     <string name="all_subtitles_italic">Κάντε όλους τους υπότιτλους πλάγιους</string>
     <string name="background_radius">Ακτίνα φόντου</string>
     <string name="slide_up_again_to_exceed_100">Σύρετε ξανά προς τα πάνω για να υπερβείτε το 100%</string>
+    <string name="title_discover">Discover</string>
 </resources>
