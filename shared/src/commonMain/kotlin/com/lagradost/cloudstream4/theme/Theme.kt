@@ -35,6 +35,18 @@ enum class CloudStreamThemeMode {
     /** "SilentBlue" */
     SilentBlue,
 
+    /** AURA Monochrome: restrained black, white and neutral gray. */
+    AuraMonochrome,
+
+    /** AURA Soft Neutral: warm cream surfaces and charcoal text. */
+    AuraSoftNeutral,
+
+    /** AURA Dark Premium: deep graphite with subtle silver contrast. */
+    AuraDarkPremium,
+
+    /** AURA Minimal Accent: neutral surfaces with a muted violet accent. */
+    AuraMinimalAccent,
+
     /** "System" resolved on each platform via [isSystemInDarkTheme] */
     FollowSystem,
 
@@ -71,6 +83,12 @@ fun modeToTheme(mode : CloudStreamThemeMode, primaryColor: CloudStreamPrimaryCol
             mode == CloudStreamThemeMode.Dynamic -> base
             primaryColor == CloudStreamPrimaryColor.DYNAMIC -> base.copy(primary = dynamicPrimary)
             primaryColor == CloudStreamPrimaryColor.DYNAMIC_TWO -> base.copy(primary = dynamicSecondary)
+            primaryColor == CloudStreamPrimaryColor.NORMAL && mode in setOf(
+                CloudStreamThemeMode.AuraMonochrome,
+                CloudStreamThemeMode.AuraSoftNeutral,
+                CloudStreamThemeMode.AuraDarkPremium,
+                CloudStreamThemeMode.AuraMinimalAccent,
+            ) -> base
             else -> base.copy(primary = primaryColor.color)
         }
     }
