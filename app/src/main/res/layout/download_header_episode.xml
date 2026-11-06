@@ -5,9 +5,10 @@
     android:id="@+id/episode_holder"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_marginStart="10dp"
-    android:layout_marginTop="10dp"
-    android:layout_marginEnd="10dp"
+    android:layout_marginStart="12dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginEnd="12dp"
+    android:layout_marginBottom="4dp"
     android:foreground="@drawable/outline_drawable"
     android:focusable="true"
     android:nextFocusRight="@id/download_button"
@@ -32,8 +33,8 @@
         android:orientation="horizontal">
         <!--app:cardCornerRadius="@dimen/roundedImageRadius"-->
         <androidx.cardview.widget.CardView
-            android:layout_width="70dp"
-            android:layout_height="104dp">
+            android:layout_width="76dp"
+            android:layout_height="112dp">
 
             <ImageView
                 android:id="@+id/download_header_poster"
@@ -65,8 +66,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:layout_marginStart="15dp"
-            android:layout_marginEnd="70dp"
+            android:layout_marginStart="14dp"
+            android:layout_marginEnd="64dp"
             android:orientation="vertical">
 
             <TextView
