@@ -1,6 +1,11 @@
 name: Artifact Build
 
-on: [pull_request]
+on:
+  pull_request:
+  push:
+    branches:
+      - aura/theme-system
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -37,5 +42,6 @@ jobs:
     - name: Upload Artifact
       uses: actions/upload-artifact@v7
       with:
-        name: pull-request-build
+        name: aura-theme-system-build
         path: "app/build/outputs/apk/prerelease/debug/*.apk"
+        if-no-files-found: error
