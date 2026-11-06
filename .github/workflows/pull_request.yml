@@ -1,4 +1,5 @@
 name: Artifact Build
+run-name: AURA validation on ${{ github.ref_name }}
 
 on:
   pull_request:
