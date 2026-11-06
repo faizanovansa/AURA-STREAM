@@ -364,14 +364,15 @@
                                 android:layout_marginBottom="5dp"
                                 android:maxLines="2"
                                 android:textColor="?attr/textColor"
-                                android:textSize="20sp"
+                                android:textSize="22sp"
                                 android:textStyle="bold"
                                 tools:text="The Perfect Run The Perfect Run" />
 
                             <com.lagradost.cloudstream3.widget.FlowLayout
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
-                                app:itemSpacing="10dp">
+                                android:layout_marginBottom="8dp"
+                                app:itemSpacing="12dp">
 
                                 <com.google.android.material.button.MaterialButton
                                     android:id="@+id/result_meta_site"
